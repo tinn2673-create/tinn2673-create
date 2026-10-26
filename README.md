@@ -1,11 +1,12 @@
 # HELLO WORLD 👋 I'M NGUYEN TRUNG TIN
+### *Creative Technologist in the making | Also known as VelvetGlitch ✨*
 
-- 🔭 I am currently a student majoring in **Information Technology**.
-- 🎯 Career orientation: **Creative Technologist** *(UI/UX Designer • Game & AR/VR Developer • Interactive Visual Specialist)*.
-- 🎨 Core passions: **Generative Art, Audio-Reactive Visuals (TouchDesigner), Spatial UI, and 3D Interactive Web**.
-- 📍 Based in: **Ho Chi Minh City, Vietnam**.
-- ⚡ Fun fact: *I turn code, data, and audio frequencies into immersive visual experiences!*
-
+- 🎓 **Status:** Information Technology Student.
+- 🎯 **Career Goal:** Creative Technologist *(UI/UX Designer • Game & AR/VR Developer • Interactive Visual Specialist)*.
+- 🎨 **Passions:** Audio-Reactive Visuals (TouchDesigner), 3D Interactive Web, and Spatial UI.
+- 🎵 **Music & Art:** Blending sound frequencies with real-time visuals and glitch art aesthetics.
+- 📍 **From:** Dong Thap, Vietnam 🇻🇳.
+- ⚡ **Fun fact:** *I believe code is not just for software — it's a paintbrush for real-time art!*
 ---
 
 ## 🌐 Connect with me:
