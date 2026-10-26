@@ -1,15 +1,71 @@
+# HELLO WORLD 👋 I'M NGUYEN TRUNG TIN
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Gw4Cx53r9/?mibextid=wwXIfr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@by.velvetglitch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VT_glitchgd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tinn2673@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=minh-visual&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=minh-visual&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=minh-visual&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I am currently a student majoring in **Information Technology**.
+- 🎯 Career orientation: **Creative Technologist** *(UI/UX Designer • Game & AR/VR Developer • Interactive Visual Specialist)*.
+- 🎨 Core passions: **Generative Art, Audio-Reactive Visuals (TouchDesigner), Spatial UI, and 3D Interactive Web**.
+- 📍 Based in: **Ho Chi Minh City, Vietnam**.
+- ⚡ Fun fact: *I turn code, data, and audio frequencies into immersive visual experiences!*
 
 ---
-[![](https://komarev.com/ghpvc/?username=minh-visual&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.facebook.com/share/1Gw4Cx53r9/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://tiktok.com/@by.velvetglitch" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://x.com/VT_glitchgd" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:tinn2673@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+## 🎨 UI/UX Design & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+## 🎮 Game & AR/VR Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+## 🌀 Motion Graphics & Interactive Visuals
+<p align="left">
+  <img src="https://img.shields.io/badge/TouchDesigner-FF5F00?style=for-the-badge&logo=touchdesigner&logoColor=white" alt="TouchDesigner" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=tinn2673-create&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tinn2673-create&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tinn2673-create&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
